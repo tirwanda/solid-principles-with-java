@@ -1,2 +1,5 @@
-package tirwanda.dev.solid.isp;public interface CashBackManager {
+package tirwanda.dev.solid.isp;
+
+public interface CashBackManager {
+    public void getCashBackAsCreditBalance();
 }
