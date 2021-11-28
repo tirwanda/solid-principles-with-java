@@ -9,23 +9,4 @@ public class BankService {
         return 0L;
     }
 
-    public void printPassbook() {
-
-    }
-
-    public void getLoanInterestInfo(String loanType) {
-        if (loanType.equals("homeLoan")) {
-
-        } else if (loanType.equals("personalLoan")) {
-
-        } else if (loanType.equals("car")) {
-
-        }
-    }
-
-    public void sendOTP(String medium) {
-        if (medium.equals("email")) {
-
-        }
-    }
 }
